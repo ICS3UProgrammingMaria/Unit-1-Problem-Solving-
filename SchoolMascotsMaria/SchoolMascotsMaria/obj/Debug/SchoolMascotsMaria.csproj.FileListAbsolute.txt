@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\SchoolMascotsMaria\SchoolMascotsMaria\bin\Debug\SchoolMascotsMaria.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\SchoolMascotsMaria\SchoolMascotsMaria\bin\Debug\SchoolMascotsMaria.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\SchoolMascotsMaria\SchoolMascotsMaria\bin\Debug\SchoolMascotsMaria.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\SchoolMascotsMaria\SchoolMascotsMaria\obj\Debug\SchoolMascotsMaria.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\SchoolMascotsMaria\SchoolMascotsMaria\obj\Debug\SchoolMascotsMaria.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\SchoolMascotsMaria\SchoolMascotsMaria\obj\Debug\SchoolMascotsMaria.SchoolMascotForm.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\SchoolMascotsMaria\SchoolMascotsMaria\obj\Debug\SchoolMascotsMaria.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\SchoolMascotsMaria\SchoolMascotsMaria\obj\Debug\SchoolMascotsMaria.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\SchoolMascotsMaria\SchoolMascotsMaria\obj\Debug\SchoolMascotsMaria.pdb

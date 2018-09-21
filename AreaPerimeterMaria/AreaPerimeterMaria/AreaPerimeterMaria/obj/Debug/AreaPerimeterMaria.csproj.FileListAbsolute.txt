@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\AreaPerimeterMaria\AreaPerimeterMaria\AreaPerimeterMaria\obj\Debug\AreaPerimeterMaria.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\AreaPerimeterMaria\AreaPerimeterMaria\AreaPerimeterMaria\obj\Debug\AreaPerimeterMaria.frmAreaPerimeter.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\AreaPerimeterMaria\AreaPerimeterMaria\AreaPerimeterMaria\obj\Debug\AreaPerimeterMaria.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\AreaPerimeterMaria\AreaPerimeterMaria\AreaPerimeterMaria\obj\Debug\AreaPerimeterMaria.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\AreaPerimeterMaria\AreaPerimeterMaria\AreaPerimeterMaria\bin\Debug\AreaPerimeterMaria.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\AreaPerimeterMaria\AreaPerimeterMaria\AreaPerimeterMaria\bin\Debug\AreaPerimeterMaria.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\AreaPerimeterMaria\AreaPerimeterMaria\AreaPerimeterMaria\bin\Debug\AreaPerimeterMaria.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\AreaPerimeterMaria\AreaPerimeterMaria\AreaPerimeterMaria\obj\Debug\AreaPerimeterMaria.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Temu, Maria (s272878)\Unit 1 (Problem Solving)\AreaPerimeterMaria\AreaPerimeterMaria\AreaPerimeterMaria\obj\Debug\AreaPerimeterMaria.pdb
