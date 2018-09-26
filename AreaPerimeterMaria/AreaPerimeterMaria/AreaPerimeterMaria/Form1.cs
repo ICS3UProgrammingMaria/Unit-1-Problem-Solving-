@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Maria 
+ * Created on: 21-09-2018
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #9 - Area and perimeter
+ * This program calculates the area and the perimeter
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
